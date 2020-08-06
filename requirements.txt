@@ -1,0 +1,7 @@
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+PyYAML==5.2
+firebase-admin
+google-cloud-firestore
+python-box
+protobuf

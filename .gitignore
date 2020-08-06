@@ -1,0 +1,13 @@
+*.swp
+venv/
+__pycache__/
+data/log.sqlite
+.history/
+*.DS_Store
+.idea/
+
+# node
+node_modules/
+
+# react transformed
+firebase/public/v2/js

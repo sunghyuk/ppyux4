@@ -1,0 +1,24 @@
+{
+  "name": "prms",
+  "version": "1.0.0",
+  "description": "python 3.7 firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://sunghyuk@github.com/sunghyuk/prms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunghyuk/prms/issues"
+  },
+  "homepage": "https://github.com/sunghyuk/prms#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
